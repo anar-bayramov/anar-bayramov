@@ -94,14 +94,6 @@ const anar = {
 
 </div>
 
-<!-- ═══════════ ACTIVITY GRAPH ═══════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anar-bayramov&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-</div>
-
 <!-- ═══════════ CONTACT ═══════════ -->
 
 ## 📫 Let's Connect
@@ -110,6 +102,7 @@ const anar = {
 
 <a href="mailto:bayramof.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/+994552929502"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=%22First+solve+the+problem.+Then%2C+write+the+code.%22" />
