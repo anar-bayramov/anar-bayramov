@@ -1,11 +1,10 @@
-[README.md](https://github.com/user-attachments/files/33925925/README.md)
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anar%20Bayramov&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20in%20the%20making&descSize=20&descAlignY=58" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=Salam!+%F0%9F%91%8B+I'm+Anar;Full+Stack+Developer+student+%40+Jet+Academy;Turning+coffee+into+clean+code+%E2%98%95;Building+projects%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=Hello!+%F0%9F%91%8B+I'm+Anar;Full+Stack+Developer+student+%40+Jet+Academy;Turning+coffee+into+clean+code+%E2%98%95;Building+projects%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -62,20 +61,6 @@ const anar = {
 
 > 💡 *Edit the icon lists above to match exactly what you use. Full icon list: [skillicons.dev](https://skillicons.dev)*
 
-<!-- ═══════════ LEARNING ROADMAP ═══════════ -->
-
-## 🗺️ My Learning Roadmap
-
-| Stage | Topic | Status |
-|:-----:|-------|:------:|
-| 1 | HTML, CSS, Responsive Design | ✅ Done |
-| 2 | JavaScript (ES6+), DOM | 🔄 In progress |
-| 3 | Git & GitHub workflow | 🔄 In progress |
-| 4 | Frontend framework (React) | 📅 Planned |
-| 5 | Backend & REST APIs | 📅 Planned |
-| 6 | Databases (SQL / NoSQL) | 📅 Planned |
-| 7 | Deployment & Full Stack Capstone | 🎯 Goal |
-
 <!-- ═══════════ PROJECTS ═══════════ -->
 
 ## 🚀 Featured Projects
@@ -117,28 +102,14 @@ const anar = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anar-bayramov&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
 </div>
 
-<!-- ═══════════ GOALS ═══════════ -->
-
-## 🎯 2026 Goals
-
-- [x] Start Full Stack program at Jet Academy
-- [x] Publish first repository on GitHub
-- [ ] Build and deploy a personal portfolio website
-- [ ] Complete a full stack capstone project
-- [ ] Make my first open-source contribution
-- [ ] Commit to GitHub consistently every week
-
 <!-- ═══════════ CONTACT ═══════════ -->
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/YOUR-TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+<a href="mailto:bayramof.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/+994552929502"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=%22First+solve+the+problem.+Then%2C+write+the+code.%22" />
