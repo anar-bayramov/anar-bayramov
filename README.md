@@ -9,10 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anar-bayramov&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/anar-bayramov?style=for-the-badge&logo=github&color=2c5364)
-![Location](https://img.shields.io/badge/Baku-Azerbaijan-00A3E0?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 </div>
 
 <!-- ═══════════ ABOUT ═══════════ -->
@@ -50,13 +46,13 @@ const anar = {
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
 **Tools & Workflow**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 > 💡 *Edit the icon lists above to match exactly what you use. Full icon list: [skillicons.dev](https://skillicons.dev)*
@@ -100,8 +96,8 @@ const anar = {
 
 <div align="center">
 
-<a href="mailto:bayramof.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/+994552929502"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/YOUR-TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <br/><br/>
 
